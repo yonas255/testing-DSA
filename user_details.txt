@@ -1,0 +1,64 @@
+User ID: 1
+Gender: Male
+Age: 11
+Height: 11.0
+Weight: 111.0
+Activity Level: Medium
+Nutrition Info:
+   Vegetarian: true
+   Vegan: true
+   Allergies: true
+   Omnivore: true
+Exercise Info:
+   Free Time: Evening
+   Current Fitness Level: Intermediate
+   Fitness Goals: Weight Loss
+----------------------
+User ID: 11
+Gender: Male
+Age: 11
+Height: 11.0
+Weight: 11.0
+Activity Level: Medium
+Nutrition Info:
+   Vegetarian: true
+   Vegan: true
+   Allergies: true
+   Omnivore: true
+Exercise Info:
+   Free Time: Evening
+   Current Fitness Level: Intermediate
+   Fitness Goals: Weight Loss
+----------------------
+User ID: 11
+Gender: Male
+Age: 11
+Height: 11.0
+Weight: 11.0
+Activity Level: Medium
+Nutrition Info:
+   Vegetarian: true
+   Vegan: true
+   Allergies: true
+   Omnivore: true
+Exercise Info:
+   Free Time: Evening
+   Current Fitness Level: Intermediate
+   Fitness Goals: Weight Loss
+----------------------
+User ID: 11
+Gender: Male
+Age: 11
+Height: 11.0
+Weight: 111.0
+Activity Level: Medium
+Nutrition Info:
+   Vegetarian: true
+   Vegan: true
+   Allergies: true
+   Omnivore: true
+Exercise Info:
+   Free Time: Evening
+   Current Fitness Level: Intermediate
+   Fitness Goals: Weight Loss
+----------------------
